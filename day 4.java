@@ -139,10 +139,10 @@ public class test5_game3 {
 			System.out.println("Good job");
 		}
 		else if (totalScore == 63) {
-			System.out.println("Did you cheat£¿©°(¡£§¥¡£)©´");
+			System.out.println("Did you cheatï¼Ÿâ”Œ(ã€‚Ğ”ã€‚)â”");
 		}
 		else if (totalScore == 0) {
-			System.out.println("(¤Ã ¡ã§¥ ¡ã;)¤Ã");
+			System.out.println("(ã£ Â°Ğ” Â°;)ã£");
 		}
 
 		
