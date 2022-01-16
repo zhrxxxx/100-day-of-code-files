@@ -23,7 +23,6 @@ public class test5_game3 {
 			case 2:
 				autoMode();
 				break;	
-				
 			}
 			
 			System.out.print("\n");
@@ -154,10 +153,10 @@ public class test5_game3 {
 			System.out.println("Good job");
 		}
 		else if (totalScore == 63) {
-			System.out.println("Did you cheat��(。Д。)�");
+			System.out.println("Did you cheat？┌(。Д。)┐");
 		}
 		else if (totalScore == 0) {
-			System.out.println("(っ ＜Д ＜;)っ");
+			System.out.println("(っ °Д °;)っ");
 		}
 	
 	}
@@ -216,8 +215,8 @@ public class test5_game3 {
 			int dealerValue = 0;
 			int nextRound = 1;
 			
-			//int[] dealerCard = {(int)(Math.round(Math.random() * 12 + 1)), (int)(Math.round(Math.random() * 12 + 1))};
-			int[] dealerCard = {1, 1}; //#test aces 
+			int[] dealerCard = {(int)(Math.round(Math.random() * 12 + 1)), (int)(Math.round(Math.random() * 12 + 1))};
+			//int[] dealerCard = {1, 1}; //#test aces 
 			reportor(dealerCard);	
 			
 			System.out.println("\n[1]hitting\n[2]staying");
@@ -295,10 +294,10 @@ public class test5_game3 {
 			System.out.println("Good job");
 		}
 		else if (totalScore == 63) {
-			System.out.println("That's not impossible, but still...�(。Д。)�");
+			System.out.println("That's not impossible, but still...┌(。Д。)┐");
 		}
 		else if (totalScore == 0) {
-			System.out.println("(っ ＜Д ＜;)っ");
+			System.out.println("(っ °Д °;)っ");
 		}
 		
 	}
