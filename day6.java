@@ -154,10 +154,10 @@ public class test5_game3 {
 			System.out.println("Good job");
 		}
 		else if (totalScore == 63) {
-			System.out.println("Did you cheat£ø©∞(°£ß•°£)©¥");
+			System.out.println("Did you cheatÔøΩÔøΩ(„ÄÇ–î„ÄÇ)ÔøΩ");
 		}
 		else if (totalScore == 0) {
-			System.out.println("(§√ °„ß• °„;)§√");
+			System.out.println("(„Å£ Ôºú–î Ôºú;)„Å£");
 		}
 	
 	}
@@ -295,10 +295,10 @@ public class test5_game3 {
 			System.out.println("Good job");
 		}
 		else if (totalScore == 63) {
-			System.out.println("That's not impossible, but still...©∞(°£ß•°£)©¥");
+			System.out.println("That's not impossible, but still...ÔøΩ(„ÄÇ–î„ÄÇ)ÔøΩ");
 		}
 		else if (totalScore == 0) {
-			System.out.println("(§√ °„ß• °„;)§√");
+			System.out.println("(„Å£ Ôºú–î Ôºú;)„Å£");
 		}
 		
 	}
