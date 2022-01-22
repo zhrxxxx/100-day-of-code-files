@@ -6,9 +6,7 @@
     "version": "1.0"
     "browser_action": {
         "default_icon": "ICON (WITH EXTENSION)",
-            "default_popup": "LAYOUT HTML FILE"
+            "default_popup": "popup.html"
     },
-    "permissions": [
-        //any other permisssions
-    ]
+
 }
