@@ -1,11 +1,14 @@
 {
-    "mainfest_version": 2,
-    "name": "EXTENSION DEMO",
-    "description": "Build a Basic Ectension!"
-    "version": "1.0"
-    "browser_action": {
-        "default_icon": "ICON (WITH EXTENSION)",
-            "default_popup": "popup.html"
-    }
+
+  "name": "EXTENSION DEMO",
+  "version": "1.0",
+  "description": "Build a Basic Ectension!",
+  "browser_action": {
+    //"default_icon": "ICON (WITH EXTENSION)",
+    "default_popup": "popup.html"
+
+  },
+
+  "manifest_version": 2
 
 }
