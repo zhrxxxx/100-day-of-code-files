@@ -2,15 +2,13 @@
 {
     "mainfest_version": 2,
     "name": "EXTENSION DEMO",
-        "description": "Build a Basic Ectension!"
+    "description": "Build a Basic Ectension!"
     "version": "1.0"
     "browser_action": {
-        "default_icon": "ICON (WITH EXTENSION)"
-
-
-
-    }
-
-
-
+        "default_icon": "ICON (WITH EXTENSION)",
+            "default_popup": "LAYOUT HTML FILE"
+    },
+    "permissions": [
+        //any other permisssions
+    ]
 }
