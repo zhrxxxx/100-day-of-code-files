@@ -1,4 +1,3 @@
-# Put it together
 add_library('sound')
 
 c, d, ch_1, ch_2 = None, None, None, None
@@ -31,7 +30,6 @@ def draw():
     ch_1.set(400, 1, 0, 0)
     ch_2.set(401, 1, 0, 0)
     
-    # timer?? 
     
     for i in range(0,20):
         p = lerpColor(c, d, 1.0* i/width)
